@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @OrientalHorizon or Yifei Ma
-- 👀 I’m interested in basic algorithms and data structures
-- 🌱 I’m currently learning calculus, linear algebra, as well as coding
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
+- 👀 I’m interested in nothing.
+- 🌱 I’m currently learning calculus, data structures, and physics.
+- 📫 How to reach me: email to shenjidf11@sjtu.edu.cn
 
 <!---
 OrientalHorizon/OrientalHorizon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
