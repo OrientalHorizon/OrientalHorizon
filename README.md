@@ -7,6 +7,8 @@
 - 🚆 I am proud to be a rail fan. Maybe I will switch to transportation studies?
 - 🌐 See also https://www.cnblogs.com/gznpp/ and https://www.luogu.com.cn/blog/OrientalHorizon/
 
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OrientalHorizon)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 OrientalHorizon/OrientalHorizon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
